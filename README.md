@@ -17,7 +17,7 @@
 <br/>  
 
 
-## My Skill Set  
+## I work with 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -65,8 +65,6 @@
 </td></tr></table>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **nwnspro/nwnspro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
