@@ -1,20 +1,23 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
-<p style="font-size:20px; font-weight:800;">•
+<p style="font-size:28px; font-weight:800;">•
 Full-stack developer, I code to make things fun and solve problems (sometimes make more problems).
 </p>
 
-<p style="font-size:18px; font-weight:500;">•
-Originally from China, Compsci (GD) and InfoTech (Master) student in New Zealand. BSc specialist in stats and data science. Amateur drawer and designer (I follow minimalism :) ). Pro at people-watching.
+<p style="font-size:28px; font-weight:500;">•
+China born, Compsci (GD) and InfoTech (Master) student in New Zealand. I do web dev, sometimes mobile, data and AI (got background in stats), also a part-time barista. If this career path fails, I might pursue a career to be a zookeeper 🐘. (Options are med school if i'm rich, PT at gyms, and my ultimate dream to work with elephants)
 </p>
 
-<p style="font-size:16px; font-weight:500;">•
-If this career path fails, I might pursue a career to be a zookeeper 🐘. (Options were teaching, PT at gyms, and my ultimate dream to work with elephants)
-</p>
-
-<p style="font-size:14px; font-weight:400;">
+<p style="font-size:28px; font-weight:400;">
 <em>•
 Proudly 🏳️‍🌈</em>
 </p>
+
+<p style="font-size:24px; font-weight:400;">
+<em>•
+Looking for jobs from tech to McDonald's (I do like tech really), CONNECT W ME: https://www.linkedin.com/in/alex-xue-776a94321/ 
+OR SEE MY PORTFOLIO: https://alexxue.dev </em>
+</p>
+
 
 
 
