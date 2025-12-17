@@ -49,7 +49,19 @@ OR SEE MY PORTFOLIO: https://alexxue.dev </em>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 
-<h1 align="center">My prev projects</h1>
+<h1 align="center">Project highlights</h1>
+
+### 🔖 Readmark
+A Chrome extension lets you bookmark any point in AI conversation with a quick shortcut, ask follow up questions and jump back to where you were reading without endless scrolling.
+
+### 📋 JobApplicationTracker
+As the title, but we make tracking easier with visualized analysis and built-in to-do list.
+
+### 🏀 SportsBuddy
+A website for managing team events for sports clubs.
 
 <h1 align="center">I'm currently working on...</h1>
+
+### 🤖 AICashFlow
+An AI-powered web platform made for small biz owners that integrates contract management, cash flow tracking, risk prediction, and project management all in one place.
 
